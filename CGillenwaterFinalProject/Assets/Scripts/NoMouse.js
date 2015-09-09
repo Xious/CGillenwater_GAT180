@@ -1,0 +1,2 @@
+﻿
+	Cursor.visible = false;
